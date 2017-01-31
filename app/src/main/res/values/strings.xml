@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="text1">Peter Cat  </string>
+    <string name="text2">Home Of Quality Chinese Food  </string>
+    <string name="address">18A, Park Street, Opposite KFC, Kolkata, West Bengal 700016 </string>
+    <string name="phone">033 2412 5680 </string>
+
+</resources>
